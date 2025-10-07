@@ -2,9 +2,8 @@
   "name": "n8n-render-deploy",
   "version": "1.0.0",
   "description": "n8n deployment on Render",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "n8n start",
     "build": "npm install"
   },
   "dependencies": {
