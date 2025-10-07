@@ -1,7 +1,6 @@
 {
   "name": "n8n-render-deploy",
   "version": "1.0.0",
-  "description": "n8n deployment on Render",
   "scripts": {
     "start": "n8n start",
     "build": "npm install"
