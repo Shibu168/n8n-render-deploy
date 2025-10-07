@@ -1,0 +1,16 @@
+{
+  "name": "n8n-render-deploy",
+  "version": "1.0.0",
+  "description": "n8n deployment on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm install"
+  },
+  "dependencies": {
+    "n8n": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
